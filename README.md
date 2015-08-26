@@ -45,7 +45,8 @@ Available at any time
 * Windows: https://www.virustotal.com/en/file/71b645813009c61359d69e83272dbef2bbbaef8e90aaff2e8d03027ab9c9e67d/analysis/1439491803/
 
 # Pools
-* After launch on bitcointalk
+* https://scrt.suprnova.cc
+* http://pool.rodlycirus.org/
 
 # Game Release
 After POW phase
