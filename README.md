@@ -32,6 +32,9 @@ Available at any time
 * rpcpassword=pass
 * rpcport=23151
 * addnode=5.196.10.57
+* addnode=23.227.190.110
+* addnode=104.255.33.191
+* addnode=185.81.164.238
 
 #  Wallets
 * Windows: https://mega.co.nz/#!Ex80TTQT!TV5XHD0lsuE0n7ohW7yv5sJGs1Ohqpr64rn3LDGe2Qg
