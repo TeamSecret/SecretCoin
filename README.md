@@ -18,10 +18,10 @@ Available at any time
 
 # Block Rewards
 * 500 coins per block until block 2000 : 1,000,000 coins available;
-* 250 coins per block until block 4000 : 1,000,000 coins available;
-* 125 coins per block until block 8000 : 1,000,000 coins available;
-* 62.5 coins per block until block 16000 : 1,000,000 coins available;
-* 31.25 coins per block until block 224000 : 7,000,000 coins available;
+* 250 coins per block until block 4000 : 500,000 coins available;
+* 125 coins per block until block 8000 : 500,000 coins available;
+* 62.5 coins per block until block 16000 : 500,000 coins available;
+* 31.25 coins per block until block 224000 : 6,500,000 coins available;
 
 # SecretCoin.conf
 * server=1
