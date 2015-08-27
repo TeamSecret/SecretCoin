@@ -52,7 +52,7 @@ Available at any time
 After POW phase
 
 # Exchangers
-Probably when POS starts. If before, we wil notice you;
+Probably when POW end. If before, we wil notice you;
 
 # Comments from the Team Secret
 0. Our native language isn't english. So, we're sorry for any language mistake;
