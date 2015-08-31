@@ -8,7 +8,8 @@
 > * Play on-line with other users;
 
 # Game Demo
-Available at any time
+*Available at any time
+* Scratch (Video) : https://www.youtube.com/watch?v=sxpN1-Z6_mU&feature=youtu.be
 
 # Coin Specification:
 * X11 PoW + PoS coin;
