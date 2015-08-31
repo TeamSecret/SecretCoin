@@ -53,7 +53,7 @@
 After POW phase
 
 # Exchangers
-Probably when POW end. If before, we wil notice you;
+Youbit: https://yobit.net/en/trade/SCRT/BTC
 
 # Comments from the Team Secret
 0. Our native language isn't english. So, we're sorry for any language mistake;
