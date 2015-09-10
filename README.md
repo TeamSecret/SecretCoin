@@ -47,13 +47,16 @@
 
 # Pools
 * https://scrt.suprnova.cc
-* http://pool.rodlycirus.org/
+* http://wmikrut.com/
+
+# Block Explorer
+* http://cryptobe.com/chain/SecretCoin
 
 # Game Release
 After POW phase
 
 # Exchangers
-Youbit: https://yobit.net/en/trade/SCRT/BTC
+Yobit: https://yobit.net/en/trade/SCRT/BTC
 
 # Comments from the Team Secret
 0. Our native language isn't english. So, we're sorry for any language mistake;
