@@ -24,12 +24,12 @@ You can watch the demo game on Youtube: https://www.youtube.com/watch?v=sxpN1-Z6
 ##How can I test the demo?
 The first game to be released will be "HitTheBox"If you have an Android device, follow this instructions:
 
-1 - Download the "HitTheBox": https://mega.nz/#!cAcTTZCb
-2 - Enter the decryption Key: !K_dslXrah-pxUcLSJjFQSq4j8JCYAhfWHmgOPhGO_5c
-3 - Please install on your Android device (Developer mode must be on).
-3 - Register with a bogus user and bogus password.
-4 - Use the bogus user name and bogus password to login.
-5 - Play "HitTheBox", mode "Freefall" only. "Defender" mode, isn’t available in this demo.This is only a login system test.
+1. [Download the "HitTheBox":](https://mega.nz/#!cAcTTZCb) 
+2. Enter the decryption Key: !K_dslXrah-pxUcLSJjFQSq4j8JCYAhfWHmgOPhGO_5c
+3. Please install on your Android device (Developer mode must be on).
+4. Register with a bogus user and bogus password.
+5. Use the bogus user name and bogus password to login.
+6. Play "HitTheBox", mode "Freefall" only. "Defender" mode, isn’t available in this demo.This is only a login system test.
 
 ##So if I' ll have 1000 points will it means 1000 SCRT earned?
 No, it will not. Exchange rate will depend from the current SCRT price average in the markets.
@@ -39,9 +39,9 @@ The first 5 games will not cost more than 1 USD per download. Also they will be 
 
 ##But now, where I can buy SCRT?
 At this moment, you can buy or exchange SCRT for BTC at:
-Youbit: https://yobit.net/en/trade/SCRT/BTC#7D
-or 
-C-Cex: https://c-cex.com/?p=scrt-btc
+
+1. [Youbit:](https://yobit.net/en/trade/SCRT/BTC#7D) 
+2. [C-Cex:](https://c-cex.com/?p=scrt-btc)
 
 ##Do you are planning to list the coin on other exchangers?
 Yes. Dispite our initial plans were to add this coin listed after POW phase, Yobit add us.
@@ -66,18 +66,21 @@ Minimum Stake Age: 12 hours - One Year Max age
 
 ##Block Rewards
 500 coins per block until block 2000
+
 250 coins per block until block 4000
+
 125 coins per block until block 8000
+
 62.5 coins per block until block 16000
+
 31.25 coins per block until block 224000
 
+
 ##SecretCoin.conf
-(also available to download on Mega:
-https://mega.nz/#!1NFwTBZI
-Decryt. Key: !lQPeCvbFgC1L6ohuMZ5EAAxNg9Msjyb8pVovkJaZB6k)
+Available to download on [Mega](https://mega.nz/#!1NFwTBZI) | Decryt. Key: !lQPeCvbFgC1L6ohuMZ5EAAxNg9Msjyb8pVovkJaZB6k
 
 Code:
-
+```
 server=1
 daemon=1
 listen=1
@@ -88,51 +91,63 @@ rpcport=23151
 addnode=23.227.190.110
 addnode=104.255.33.191
 addnode=185.81.164.238
-
+```
 
 ##Nodes Status
-Node 1: https://bitnodes.net/node/23-227-190-110/
-Node 2: https://bitnodes.net/node/104-255-33-191/
-Node 3: https://bitnodes.net/node/185-81-164-238/
+[Node 1 | ](https://bitnodes.net/node/23-227-190-110/)
+[Node 2 | ](https://bitnodes.net/node/104-255-33-191/)
+[Node 3](https://bitnodes.net/node/185-81-164-238/)
 
 ##Wallets
-Windows: https://mega.nz/#!Ex80TTQT!TV5XHD0lsuE0n7ohW7yv5sJGs1Ohqpr64rn3LDGe2Qg
-Mac: https://mega.nz/#!9Y1F2SAL | Mac Decrypt. Key: !bil-TU3AvUTD0Uqr3LilJfFvktPWCBalc1wFbiaUh6c
-Linux: If you use Linux and you don’t know how to compile a program, well, its time to learn Wink
+[Windows](https://mega.nz/#!Ex80TTQT!TV5XHD0lsuE0n7ohW7yv5sJGs1Ohqpr64rn3LDGe2Qg)
+
+[Mac](https://mega.nz/#!9Y1F2SAL) | Mac Decrypt. Key: !bil-TU3AvUTD0Uqr3LilJfFvktPWCBalc1wFbiaUh6c
+
+Linux: If you use Linux and you don’t know how to compile a program, well, its time to learn
 
 ##Source Code
 Here on GitHub
 
 ##Pools
-SuprNova: https://scrt.suprnova.cc/
-SuchPool: https://www.suchpool.pw/scrt/
-Aikapool: https://aikapool.com/scrt/
-Wmikrut: http://wmikrut.com/
+[SuprNova | ](https://scrt.suprnova.cc/)
+[SuchPool | ](https://www.suchpool.pw/scrt/)
+[Aikapool | ](https://aikapool.com/scrt/)
+[Wmikrut](http://wmikrut.com/)
 
 ##Block Explorer
-Cryptobe : http://cryptobe.com/chain/SecretCoin
+[Cryptobe](http://cryptobe.com/chain/SecretCoin)
 
 ##Website
-TeamSecret Website Club : https://www.secretcoin.club
+[TeamSecret Website Club](https://www.secretcoin.club)
 
 ##SecretSlack Group
 If you want to join, send us an email to secretcoin@techie.com with the subject: Request Slack Invitation
 
 ##Social
-Facebook: https://www.facebook.com/Secret-Coin-1631582977121900/?fref=nf
-Twitter: https://twitter.com/SecretCoinDevs
+[Facebook | ](https://www.facebook.com/Secret-Coin-1631582977121900/?fref=nf)
+[Twitter](https://twitter.com/SecretCoinDevs)
 
 ##Comments from the Team Secret
 Our native language isn't English. So, we're sorry for any language mistake;
+
 Our main goal is to develop the game and not to make another "pump and dump" coin;
+
 This coin, with this specifications is a clone from another X11 coin and it has no specials features;
+
 The nodes available are rented;
+
 We have a simple wallet with a simple logo.
+
 The coin distribution is perfect for our development and to give a chance to all users start the same way at the same time;
+
 No pre mine stuffs;
+
 Fair launch;
+
 We will not mine this coin. The game will have an exchanger platform, so later we can collect our fees (around 0.3%);
+
 Thank you for your understanding and support;
+
 Any ideas, suggestions, you can email us: secretcoin@techie.com.
 
-##Happy Mining, Trading
+#Happy Mining, Trading and Playing
