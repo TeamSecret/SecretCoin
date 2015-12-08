@@ -19,7 +19,7 @@ You will be able also to buy points, SCRT or game features with okpay and paypal
 
 ##Do you have already launched any game?
 No yet. Only a demo of the first game. Once POW phase ends, the first releases will be public and available to download from the stores.
-You can watch the demo game on Youtube: https://www.youtube.com/watch?v=sxpN1-Z6_mU&feature=youtu.be
+You can watch the demo game on [Youtube](https://www.youtube.com/watch?v=sxpN1-Z6_mU&feature=youtu.be)
 
 ##How can I test the demo?
 The first game to be released will be "HitTheBox"If you have an Android device, follow this instructions:
@@ -59,10 +59,12 @@ No yet. After January we will have our own company to develop this project full 
 Because is a strong name.
 
 ##[SCRT] SecretCoin, Coin Specification
+```
 X11 PoW + PoS coin
 Block time: 1.5 minute
 Stake Interest: 2.75%
 Minimum Stake Age: 12 hours - One Year Max age
+```
 
 ##Block Rewards
 500 coins per block until block 2000
@@ -150,4 +152,4 @@ Thank you for your understanding and support;
 
 Any ideas, suggestions, you can email us: secretcoin@techie.com.
 
-#Happy Mining, Trading and Playing
+###Happy Mining, Trading and Playing
