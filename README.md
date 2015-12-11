@@ -117,6 +117,7 @@ Here on GitHub
 [Wmikrut](http://wmikrut.com/)
 
 ##Block Explorer
+[Crypto Id] (https://chainz.cryptoid.info/scrt/)
 [Cryptobe](http://cryptobe.com/chain/SecretCoin)
 
 ##Website
