@@ -41,8 +41,8 @@ The first 5 games will not cost more than 1 USD per download. Also they will be 
 At this moment, you can buy or exchange SCRT for BTC at:
 
 1. [Bittrex](https://bittrex.com/Market/Index?MarketName=BTC-SCRT)
-2. [C-Cex:](https://c-cex.com/?p=scrt-btc)
-3. [Youbit:](https://yobit.net/en/trade/SCRT/BTC#7D) 
+2. [C-Cex](https://c-cex.com/?p=scrt-btc)
+3. [Youbit](https://yobit.net/en/trade/SCRT/BTC#7D) 
 
 ##Do you are planning to list the coin on other exchangers?
 Yes. Dispite our initial plans were to add this coin listed after POW phase, Yobit add us.
