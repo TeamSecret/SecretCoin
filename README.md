@@ -47,7 +47,6 @@ At this moment, you can buy or exchange SCRT for BTC at:
 ##Do you are planning to list the coin on other exchangers?
 Yes. Dispite our initial plans were to add this coin listed after POW phase, Yobit add us.
 Now we sent request to others exchangers too. This is the actual status:
-bittrex - sent request, waiting for reply;
 poloniex: sent request, waiting for reply;
 cryptsy: we are not interested at this moment;
 bter: sent request, waiting for reply;
