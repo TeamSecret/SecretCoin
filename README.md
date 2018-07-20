@@ -1,9 +1,8 @@
 **[SCRT] SecretCoin**
 
-**What is SecretCoin?**
+SecretCoin is a cryptocoin (X11 PoW + PoS coin).
 
-SecretCoin is a cryptocoin (X11 PoW + PoS coin). 
-(Relaunch of the network will happen somewhere between July/August 2018. See comments below)
+*(Relaunch of the network will happen somewhere between July/August 2018. See comments below)*
 
 **Where I can trade SCRT?**
 
@@ -50,25 +49,11 @@ addnode=88.198.68.186
 
 **Wallets**
 
-[Windows](not available yet)
+[Windows] - (not available yet)
 
-[Mac](not available yet)
+[Mac] - (not available yet)
 
-Linux: If you use Linux and you don’t know how to compile a program, well, its time to learn
-
-**Pools**
-
-POW is over. 
-
-Those were the old pools:
-
-[SuprNova | ](https://scrt.suprnova.cc/)
-
-[SuchPool | ](https://www.suchpool.pw/scrt/)
-
-[Aikapool | ](https://aikapool.com/scrt/)
-
-[Wmikrut](http://wmikrut.com/)
+Linux - If you use Linux and you don’t know how to compile a program, well, its time to learn
 
 
 **Block Explorer**
