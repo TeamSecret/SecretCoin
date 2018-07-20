@@ -1,17 +1,18 @@
-[SCRT] SecretCoin
+**[SCRT] SecretCoin**
 
-What is SecretCoin?
+**What is SecretCoin?**
+
 SecretCoin is a cryptocoin (X11 PoW + PoS coin). 
 (Relaunch of the network will happen somewhere between July/August 2018. See comments below)
 
-Where I can trade SCRT?
+**Where I can trade SCRT?**
 
 At this moment, you can buy or exchange SCRT for BTC at:
 
 1. [Yobit](https://yobit.net/en/trade/SCRT/BTC#7D) 
 2. [Btcpop](https://btcpop.co/Exchange/SCRT)
 
-[SCRT] SecretCoin, Coin Specification
+**Coin Specification**
 ```
 X11 PoW + PoS coin
 Block time: 1.5 minute
@@ -19,7 +20,7 @@ Stake Interest: 2.75%
 Minimum Stake Age: 12 hours - One Year Max age
 ```
 
-Block Rewards
+**Block Rewards**
 ```
 500 coins per block until block 2000
 250 coins per block until block 4000
@@ -29,7 +30,7 @@ Block Rewards
 (POW is over. POS ongoing)
 ```
 
-Code:
+**Code:**
 ```
 server=1
 daemon=1
@@ -47,34 +48,42 @@ addnode=88.99.248.15
 addnode=88.198.68.186
 ```
 
-Wallets
+**Wallets**
+
 [Windows](not available yet)
 
 [Mac](not available yet)
 
 Linux: If you use Linux and you don’t know how to compile a program, well, its time to learn
 
-Pools
+**Pools**
 
-POW is over. Those were the old pools:
+POW is over. 
+
+Those were the old pools:
+
 [SuprNova | ](https://scrt.suprnova.cc/)
+
 [SuchPool | ](https://www.suchpool.pw/scrt/)
+
 [Aikapool | ](https://aikapool.com/scrt/)
+
 [Wmikrut](http://wmikrut.com/)
 
-Block Explorer
+
+**Block Explorer**
 
 (in development)
 
-Website
+**Website**
 
 (in development)
 
-Social
+**Social**
 
 (probably soon)
 
-Comments
+**Comments**
 
 (After the network/wallets relaunch, a statement will be posted here - around August 2018.
 The old team failed to achieve their goals of the initial project.
