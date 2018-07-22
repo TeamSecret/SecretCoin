@@ -8,8 +8,8 @@ SecretCoin is a cryptocoin (X11 PoW + PoS coin).
 
 At this moment, you can buy or exchange SCRT for BTC at:
 
-1. [Yobit](https://yobit.net/en/trade/SCRT/BTC#7D) 
-2. [Btcpop](https://btcpop.co/Exchange/SCRT)
+1. [Yobit](https://yobit.net/en/trade/SCRT/BTC#7D) -> Wallet updated, but Sync delayed !!! 
+2. [Btcpop](https://btcpop.co/Exchange/SCRT) -> Working fine!
 
 **Coin Specification**
 ```
