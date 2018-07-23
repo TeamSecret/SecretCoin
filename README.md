@@ -29,7 +29,7 @@ Minimum Stake Age: 12 hours - One Year Max age
 (POW is over. POS ongoing)
 ```
 
-**Code:**
+**Code**
 ```
 server=1
 daemon=1
@@ -47,6 +47,11 @@ addnode=88.99.248.15
 addnode=88.198.68.186
 ```
 
+**For Fast Sync**
+```
+SecretCoin chain until block #869095 for fastest sync | Size: 532.8 MB 
+https://mega.nz/#!ufYRXIBA
+```
 **Wallets**
 
 [Windows] - (not available yet)
