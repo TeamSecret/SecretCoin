@@ -48,10 +48,11 @@ addnode=88.198.68.186
 ```
 
 **For Fast Sync**
-```
-SecretCoin chain until block #869095 for fastest sync | Size: 532.8 MB 
-https://mega.nz/#!ufYRXIBA
-```
+
+SecretCoin chain until block #869095 | Size: 532.8 MB | [Download from MEGA](https://mega.nz/#!ufYRXIBA!G_TsnsgZ8g65Wdu-De1mmgHCm33X5qRsFhRnXpNPpvY)
+
+
+
 **Wallets**
 
 [Windows] - (not available yet)
